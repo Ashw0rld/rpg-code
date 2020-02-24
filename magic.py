@@ -8,6 +8,6 @@ class Spell:
         self.type1 = type1
 
     def gen_dmg(self):
-        low = self.dmg - 15
-        high = self.dmg + 15
+        low = self.dmg-15
+        high = self.dmg+15
         return random.randrange(low, high)
