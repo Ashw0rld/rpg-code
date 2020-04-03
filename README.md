@@ -1,2 +1,2 @@
 # rpg-code
-a rpg game code in python.
+a role playing game code in python.
